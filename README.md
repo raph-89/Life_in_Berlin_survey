@@ -5,4 +5,4 @@ This was a small group project as part of module_1-intro of our Data Analytics c
 
 We were asked to choose a topic and ask multiple questions about it via a **Google Forms** survey.
 
-We then sent the survey to all of our classmates. Once they had all responded, we anaylsed the data. We then presented our findings to the class.
+We then sent the survey to all of our classmates and teacher. Once they had all responded, we anaylsed the data. We then presented our findings to the class.
